@@ -1,18 +1,14 @@
-<h1 align="center"> MICROSOFT TEAMS AUTOMATION </h1>
+<h1 align="center"> DBL Loading... </h1>
 <div align= "center">
-  <img src="https://www.scnsoft.com/blog-pictures/testing/mobile-automated-testing-with-selenium-01.png" width="350" height="200"/>
-  <h3>Microsoft Teams Automation systeam built with Selenium using Chromedriver. Sqlite3 and Pandas use for Data Mangemant and PyQt5 use for convert script into a beautiful GUI.</h3>
+  <img src="https://user-images.githubusercontent.com/84271454/128766388-c2ff626b-deec-44c8-99e8-07c442302f6c.jpg" width="700" height="500"/>
+  <h3>Created a normal script that use bs4 and request lib to grab the result from the websites.</h3>
 </div><br>
 <div align="center">
-
-
-
-
 
 [![Python](https://img.shields.io/badge/python-3.8-brightgreen)](https://www.python.org)
 [![PyQt5](https://img.shields.io/badge/request-2.26.0-orange)](https://realpython.com/python-requests/)
 [![selenium](https://img.shields.io/badge/BS4-4.9.3-blue)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-[![anaconda](https://img.shields.io/badge/Anaconda.org-1.3.1-blue)]
+![anaconda](https://img.shields.io/badge/Anaconda.org-1.3.1-blue)
 
 ![relase](https://img.shields.io/badge/release-v0.0.64-red)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/dharmrajchauhan/)<br>
