@@ -21,7 +21,7 @@ Recentaly dominos.in web's Database are hacked anb they(hackers) pulicaly post t
 ---
 |DataSize|Datavalues|
 |:---:|:---:|
-|<img src="https://user-images.githubusercontent.com/84271454/127236580-fd54e79c-910e-45df-b898-ec0934214f50.jpg" width="450" height="500">|<img src="https://user-images.githubusercontent.com/84271454/127237279-41ef0e53-4895-4768-9af1-7ab510050e8c.jpg" width="450" height="500">|<br><br>
+|<img src="https://github.com/Ubtohts/Dominosdatagrabber/blob/main/image/1st-image.jpg" width="450" height="300">|<img src="https://github.com/Ubtohts/Dominosdatagrabber/blob/main/image/2nd-image.jpg" width="450" height="300">|<br><br>
 
 
 ---
