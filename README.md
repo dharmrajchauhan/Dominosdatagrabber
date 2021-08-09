@@ -1,6 +1,6 @@
 <h1 align="center"> DBL Loading... </h1>
 <div align= "center">
-  <img src="https://user-images.githubusercontent.com/84271454/128766388-c2ff626b-deec-44c8-99e8-07c442302f6c.jpg" width="700" height="500"/>
+  <img src="https://user-images.githubusercontent.com/84271454/128768502-0026cfb6-27de-47e1-9869-bee42082ad5a.png" width="700" height="400"/>
   <h3>Created a normal script that use bs4 and request lib to grab the result from the websites.</h3>
 </div><br>
 <div align="center">
@@ -16,9 +16,17 @@
 
 ---
 ## :innocent: Idea
-Recentaly dominos.in web's Database are hacked anb they(hackers) pulicaly post those all data on the webserver. So, lot's of indian user's privacy are leaked but for indian people
-it's not important, so again no action:-:reaction are done. But accidentaly i paste my friend no, on webserver and after seeing result i shocked. How can someone eat rupee 25,000's 
-pizza. So i made a simple script that give me a data of my all contact list's member.
+Recentaly dominos.in web's Database are hacked anb they(hackers) pulicaly post those all data on the webserver. So, lot's of indian user's privacy are leaked but for indian people, it's not important. so again no action:-:reaction are done. here i am showing you how big the data are.
+
+---
+|DataSize|Datavalues|
+|:---:|:---:|
+|<img src="https://user-images.githubusercontent.com/84271454/127236580-fd54e79c-910e-45df-b898-ec0934214f50.jpg" width="450" height="500">|<img src="https://user-images.githubusercontent.com/84271454/127237279-41ef0e53-4895-4768-9af1-7ab510050e8c.jpg" width="450" height="500">|<br><br>
+
+
+---
+Now accidentaly i paste my friend no, on webserver and after seeing result i shocked. How can someone eat rupee 25,000's 
+pizza. So i made a simple script that give me a data of my all contact list's member. Mean grabbing data from the hacker's website😆.
 
 <h4>Step 1: Attach your contact list with file</h4>
 1.  First, download your contact list from phone.</br>
