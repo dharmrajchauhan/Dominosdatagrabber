@@ -19,7 +19,7 @@
 Recentaly dominos.in web's Database are hacked anb they(hackers) pulicaly post those all data on the webserver. So, lot's of indian user's privacy are leaked but for indian people, it's not important. so again no action:-:reaction are done. here i am showing you how big the data are.
 
 ---
-|DataSize|Datavalues|
+|DataSize|DataValues|
 |:---:|:---:|
 |<img src="https://github.com/Ubtohts/Dominosdatagrabber/blob/main/image/1st-image.jpg" width="450" height="300">|<img src="https://github.com/Ubtohts/Dominosdatagrabber/blob/main/image/2nd-image.jpg" width="450" height="300">|<br><br>
 
